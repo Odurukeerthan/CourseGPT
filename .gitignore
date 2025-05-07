@@ -1,0 +1,42 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Build output
+dist
+dist-ssr
+
+# Vite
+.vite
+
+# Environment variables
+.env
+.env.*.local
+
+# Dependency directories
+node_modules/
+
+# Editor-specific folders/files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# System files
+Thumbs.db
